@@ -1,2 +1,2 @@
 # dotfiles
-i'll do this eventually
+Dotfiles intended for usage with Dotbot
